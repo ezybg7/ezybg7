@@ -1,5 +1,4 @@
-# Everett Yan
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=300&lines=Hi%2C+I'm+Everett!)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=ezybg7)
 
 ### 🧰 Languages and Tools
