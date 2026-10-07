@@ -116,9 +116,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ezybg7">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezybg7&theme=darkhub&no-frame=true&no-bg=true&row=1&column=8&margin-w=10" alt="GitHub trophies" width="100%">
-</a>
+<img src="assets/advancements.svg" alt="Minecraft-style advancement toasts: Full Stack Crafter, Hackathon Hunter, Redstone Engineer, Open Source Villager, Cloud Storage Keeper, LLM Alchemist, Database Scholar, Diamond Streak" width="100%">
 
 </div>
 
